@@ -1,7 +1,15 @@
-nprime 
+This is site is done by [nprime496](https://twitter.com/nprime496).
 
-Here you can say lots of fun things about your site.
+I'm a student, interested in data science, psychology, mechanisms, memes, pretty much everything and nothing.
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+This blog will be about almost everything with a great focus on Data science.
+
+Ready **player one** ? Let's go!
+
+![](_imgs/pac-man.gif)
+
+
+
+
+
