@@ -61,7 +61,7 @@ We thus calculate the burrow score of the different authors based on the trainin
 
 | ![](/assets/images/lovestory/burrow_delta.png) |
 |:--:|
-| <b> probabilities's output matrix</b>|
+| <b> Burrow's delta matrix</b>|
 
 It may seem incomprehensible but it is simply the burrow's delta score of the test tweets compared to the authors. So for each row we have an author, and each column represents a set of tweets, the value in each cell represents the burrow score value (lower is better).
 
@@ -75,9 +75,9 @@ We are going to use a faststylometry feature that allows us to train a model to 
 
 | ![](/assets/images/lovestory/proba.png) |
 |:--:|
-| <b> Burrow's delta matrix</b>|
+| <b> Probabilities's output matrix</b>|
 
-
+Similarly we see a strong component on the diagonal. However, monsieursow and mrs_excellence, show a very great similarity in their different texts.
 
 ## References
 
